@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="tms server" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="tms server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/a_strizhenok" local="$PROJECT_DIR$" web="/data/a_strizhenok" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
